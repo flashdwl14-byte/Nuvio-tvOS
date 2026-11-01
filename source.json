@@ -1,0 +1,28 @@
+{
+  "name": "Nuvio tvOS",
+  "identifier": "com.flashdwl14.nuvio.tvos.source",
+  "subtitle": "Nuvio pour Apple TV",
+  "description": "Source de distribution Nuvio pour tvOS",
+  "sourceURL": "https://raw.githubusercontent.com/flashdwl14-byte/Nuvio-tvOS/main/source.json",
+  "apps": [
+    {
+      "name": "NuvioTV",
+      "bundleIdentifier": "com.nuviotv.app",
+      "developerName": "Nuvio",
+      "subtitle": "Application pour Apple TV",
+      "localizedDescription": "NuvioTV pour tvOS",
+      "iconURL": "https://raw.githubusercontent.com/flashdwl14-byte/Nuvio-tvOS/main/icon.png",
+      "tintColor": "#202020",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-11-01",
+          "downloadURL": "https://github.com/flashdwl14-byte/Nuvio-tvOS/releases/download/v1.0.0/NuvioTV-tvOS-propre.ipa",
+          "size": 23860121,
+          "minOSVersion": "26.0"
+        }
+      ]
+    }
+  ]
+}
