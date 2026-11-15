@@ -15,6 +15,14 @@
       "tintColor": "#202020",
       "versions": [
         {
+          "version": "0.3.5",
+          "buildVersion": "12",
+          "date": "2026-11-15",
+          "downloadURL": "https://github.com/flashdwl14-byte/Nuvio-tvOS/releases/download/v1.11.0/NuvioTV-tvOS-0.3.5.ipa",
+          "size": 39028219,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.3.4",
           "buildVersion": "11",
           "date": "2026-11-15",
